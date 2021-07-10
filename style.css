@@ -40,7 +40,7 @@ main {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-image: url(mobile.jpg);
+  background-image: url(C:\Users\Wuro\Downloads\img\mobile.jpg);
   background-size: cover;
 }
 
@@ -55,8 +55,6 @@ h1 {
   font-size: 40px;
   line-height: 52px;
   color: #172b4d;
-  background-color: orange;
-  background-color: green;
 }
 
 p.details {
